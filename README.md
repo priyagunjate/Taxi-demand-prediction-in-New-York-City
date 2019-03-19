@@ -1,0 +1,2 @@
+# Taxi-demand-prediction-in-New-York-City
+Objectives: Task 1: Incorporate Fourier features as features into Regression models and measure MAPE. Task 2: Perform hyper-parameter tuning for Regression models. 2a. Linear Regression: Grid Search 2b. Random Forest: Random Search 2c. Xgboost: Random Search Task 3: Explore more time-series features using Google search/Quora/Stackoverflow to reduce the MAPE to &lt; 12%
